@@ -134,7 +134,7 @@ padding:0px;
 }
 
     #header .overlay {
-        background-color: rgba(3, 3, 3, 0.8);
+        background-color: rgba(66, 65, 65, 0.8);
         min-height: 700px;
     }
 
@@ -154,21 +154,37 @@ padding:0px;
         padding-bottom: 40px;
         text-transform: uppercase;
     }
-
 /*================================
-    SERVICES STYLES
+    ABOUT STYLES
 ==================================*/
-#services {
+#about {
     background-color: rgba(237, 237, 237, 1);
 }
 
-    #services i {
+    #about i {
         font-size: 80px;
         padding: 30px;
         color: #FF2276;
     }
 
-    #services h4 {
+    #about h4 {
+        padding-bottom: 5px;
+        padding-top: 15px;
+    }
+/*================================
+    SKILLS STYLES
+==================================*/
+#skills {
+    background-color: rgba(237, 237, 237, 1);
+}
+
+    #skills i {
+        font-size: 80px;
+        padding: 30px;
+        color: #FF2276;
+    }
+
+    #skills h4 {
         padding-bottom: 5px;
         padding-top: 15px;
     }
